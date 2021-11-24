@@ -50,8 +50,9 @@ body{
     text-align: left;
     display: flex;
 }
-#bodyleft a{
+a{
     color: white;
+    text-decoration: none;
 }
 #bodyleft #information #navigation ul li
 {
